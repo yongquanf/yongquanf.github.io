@@ -1,0 +1,153 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Journal
+- [pubs/smf.pdf  A Skewness-aware Matrix Factorization Approach for Mesh-structured Cloud Services] \n
+Yongquan Fu, Dongsheng Li, Pere Barlet-Ros, Chun Huang, Zhen Huang, Siqi Shen, Huayou Su. \n
+2019, IEEE/ACM Transactions on Networking, 27(4): 1598--1611.
+
+- [pubs/rda.pdf  Every Timestamp Counts: Accurate Tracking of Network Latencies using Reconcilable Difference Aggregator] \n
+Yongquan Fu, Pere Barlet-Ros, Dongsheng Li. \n
+2018, IEEE/ACM Transactions on Networking  26(1): 90--103.
+
+- [pubs/survey.pdf  Application Driven Latency Measurement and Optimization Techniques in Edge Computing Environment: A Survey] \n
+Yongquan Fu,  Li Dongsheng. \n
+2018, Journal of Computer Research and Development. (In Chinese). 55(3): 512--523.
+
+- [pubs/rmf.pdf Self-Stabilized Distributed Network Distance Prediction] \n
+Yongquan Fu,  Xu Xiaoping. \n
+2017, IEEE/ACM Transactions on Networking  25(1):   451--464.
+
+- [pubs/mcr.pdf MCR: Structure-aware Overlay based Latency-optimal Greedy Relay Search] \n
+Yongquan Fu,  Ernst Biersack. \n
+2017, IEEE/ACM Transactions on Networking  25(5): 3016--3029.
+
+- [pubs/tompecs.pdf False-Positive Probability and Compression Optimization for Tree-Structured Bloom Filter] \n
+Yongquan Fu,  Ernst Biersack. \n
+ 2016, ACM TOMPECS  1  19:1--19:39.
+
+- [pubs/tompecs.pdf  Tree-structured Bloom Filters for Joint Optimization of False Positive Probability and Transmission Bandwidth] \n
+Yongquan Fu,  Ernst Biersack. \n
+SIGMETRICS Perform. Eval. Rev. 43, 1 (June 2015), 437-438.
+
+- [pubs/comnet.pdf  CommonFinder: A decentralized and privacy-preserving common-friend measurement method for the distributed online social networks] \n
+Yongquan Fu, Wang Yijie, Peng Wei. \n
+2014, Computer Networks v 64, p 369-389.
+
+- [pubs/hpm.pdf A general scalable and accurate decentralized level monitoring method for large-scale dynamic service provision in hybrid clouds] \n
+Yongquan Fu, Wang Yijie, Biersack Ernst. \n
+2013, Future Generation Computer Systems, 29(5), p 1235-1253.
+
+- [pubs/hybridnn.pdf HybridNN: An accurate and scalable network location service based on the inframetric model] \n
+Yongquan Fu, Wang Yijie, Biersack Ernst. \n
+2013, Future Generation Computer Systems, v 29, n 6, p 1485-1504.
+
+- [pubs/dknns.pdf DKNNS: Scalable and accurate distributed K nearest neighbor search for latency-sensitive applications] \n
+Yongquan Fu, Wang Yijie. \n
+2013, Science China Information Sciences, v 56, n 3, p 1-17.
+
+- [pubs/sample.pdf Scalable unbiased sampling method based on multi-peer adaptive random walk] \n
+Yongquan Fu, Wang Yijie. \n
+2009, Ruan Jian Xue Bao/Journal of Software, v 20, n 3, p 630-643. (In Chinese)
+
+- [pubs/diting.pdf Diting: An Author Disambiguation method based on Network Representation Learning] \n
+Liwen Peng, Siqi Shen, Jun Xu, Yongquan Fu, Dongsheng Li,  Adele Lu Jia. \n
+2019, IEEE Access, Accepted.
+
+- [pubs/blor.pdf  BLOR: An efficient bandwidth and latency sensitive overlay routing approach for flash data dissemination] \n
+Li Xiaoyong, Wang Yijie, Yongquan Fu, Li Xiaoling, Sun Weidong. \n
+2014, Concurrency Computation Practice and Experience. 
+
+- [pubs/pndp.pdf PNDP: Predicting Accurate Network Distance Based on Clustering] \n
+Li Xiaoyong , Wang Yijie , Yongquan Fu, Sun Weidong. \n
+ 2012, Information, An International Interdisciplinary Journal, v 15, n 1, p 267-274. 
+
+
+
+=== Conference
+
+
+- [Clustering-preserving Network Flow Sketching] \n
+Yongquan Fu, Dongsheng Li, Siqi Shen, Yiming Zhang, Kai Chen. \n
+2020, IEEE INFOCOM, accepted.
+
+- [pubs/sigposter19.pdf Resilient Disaggregated Network Flow Monitoring] \n
+Yongquan Fu, Dongsheng Li, Siqi Shen, Yiming Zhang, Kai Chen. \n
+2019, ACM SIGCOMM (Poster), 54-56.
+
+- [pubs/sigmetrics15.pdf Tree-structured Bloom Filters for Joint Optimization of False Positive Probability and Transmission Bandwidth] \n
+Yongquan Fu,  Ernst Biersack. \n
+2015, ACM SIGMETRICS} 437--438.
+
+- [pubs/ccgrid15.pdf Towards Latency-Optimal Distributed Relay Selection] \n
+Yongquan Fu,  Wang Yijie,  Pei Xiaoqiang. \n
+2015, IEEE/ACM CCGRID, 433--442.
+
+- [pubs/chinacoma.pdf On the feasibility of common-friend measurements for the distributed online social networks (BEST PAPER)] \n
+Yongquan Fu,  Wang Yijie. \n
+2012, 7th International Conference on Communications and Networking in China,  p 24-29.
+
+- [pubs/chinacomb.pdf BCE: a Privacy-preserving Common-friend Estimation Method for Distributed Online Social Networks Without Cryptography] \n
+Yongquan Fu,  Wang Yijie. \n
+2012, 7th International Conference on Communications and Networking in China,  p 212-217.
+
+- [pubs/www19.pdf User Donations in a User Generated Video System] \n
+Adele Lu Jia, Xiaoxue Shen, Siqi Shen, Yongquan Fu, Liwen Peng. \n
+2019, WWW (Companion Volume): 1055-1062.
+
+- [pubs/ijcnn19.pdf Author Disambiguation through Adversarial Network Representation Learning] \n
+Liwen Peng, Siqi Shen, Dongsheng Li, Jun Xu, Yongquan Fu, Huayou Su. \n
+2019, IJCNN: 1-8.
+
+- [pubs/cikm18.pdf A Network-embedding based method for Author Disambiguation] \n
+Jun Xu, Siqi Shen, Dongsheng Li and  Yongquan Fu. \n
+1735-1738
+2018, CIKM, 1735-1738.
+
+- [pubs/cf15.pdf Cooperative Repair Based on Tree Structure for Multiple Failures in Distributed Storage Systems with Regenerating Codes] \n
+Pei Xiaoqiang, Wang Yijie, Ma Xingkong, Yongquan Fu, and Xu Fangliang. \n
+2015, ACM Conf. Computing Frontiers.
+
+- [pubs/hpcchina15.pdf Research on the Similar-File Assisted P2P based Image Delivery Technique in the Data Center Environment] \n
+Wei Lichao, Yongquan Fu, Liu Feng, Peng Yuxing. \n
+2015, HPC China. (In Chinese).
+
+- [pubs/code14.pdf A discrete data dividing approach for erasure-code-based storage applications] \n
+Sun Weidong, Wang Yijie, Yongquan Fu, Pei Xiaoqiang. \n
+2014, SOSE: 308-313.
+
+- [pubs/nas14.pdf MCRTREE: A Mutually Cooperative Recovery Scheme for Multiple Losses in Distributed Storage Systems Based on Tree Structure] \n
+Pei Xiaoqiang, Wang Yijie, Ma Xingkong, Yongquan Fu, and Xu Fangliang. \n
+2014, 9th IEEE International Conference on Networking, Architecture, and Storage, p 158-167.
+
+- [pubs/grc14.pdf GRC: A High Fault-Tolerance and Low Recovery-Overhead Erasure Code for Multiple Losses] \n
+Lin Xuan,  Wang Yijie,  Pei Xiaoqiang,  Xu Fangliang, Yongquan Fu. \n
+2014, CCF BigData.
+
+- [BLOR: Bandwidth and Latency Sensitive Overlay Routing for Flash Data Dissemination] \n
+Li Xiaoyong, Wang Yijie, Yongquan Fu, Li Xiaoling, Sun Weidong. \n
+2012, IPDPS Workshops: 53-64.
+
+- [pubs/irank09.pdf iRank: Supporting proximity ranking for peer-to-peer applications] \n
+Yongquan Fu, Wang Yijie. \n
+2009, ICPADS: 836-841.
+
+- [pubs/hyperspring09.pdf HyperSpring: Accurate and Stable Latency Estimation in the Hyperbolic Spaces] \n
+Yongquan Fu, Wang Yijie. \n
+2009, ICPADS: 864-869.
+
+
+=== Preprints
+
+
+- [pubs/corr19.pdf Locality-Sensitive Sketching for Resilient Network Flow Monitoring] \n
+Yongquan Fu, Dongsheng Li, Siqi Shen, Yiming Zhang, Kai Chen. \n
+2019, CoRR abs/1905.03113.
+
+- [pubs/corr11.pdf HybridNN: Supporting Network Location Service on Generalized Delay Metrics] \n
+Yongquan Fu, Yijie Wang, Ernst Biersack. \n
+2011, CoRR  abs/1108.1928.
+
+
+
+
