@@ -1,5 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
-== Publications 
+== Publications
+
+Open-source: https://github.com/yongquanf 
 
 === Journal
 - [pubs/smf.pdf  A Skewness-aware Matrix Factorization Approach for Mesh-structured Cloud Services] \n
